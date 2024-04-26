@@ -1,0 +1,102 @@
+{
+    "cards": [
+       {
+       "img": "https://secure.meetupstatic.com/photos/event/8/8/8/a/600_519874954.webp?w=384",
+       "titulo": "Creación de contenidos con inteligencia natural",
+       "resumen": "En los últimos meses estamos viendo una revolución digital: casi todas las aplicaciones tradicionales incorporan...",
+       "contenido": "💥 RESERVA TU PLAZA GRATIS PARA ASISTIR 💥➡ https://www.apiaddicts.org/creacion-de-contenidos-con-inteligencia-natural-webinar/En los últimos meses estamos viendo una revolución digital: casi todas las aplicaciones tradicionales incorporan una herramienta para ayudar en la generación de información de forma más ágil, apoyándose en la inteligencia artificial.Si bien la inteligencia artificial es una gran ayuda, no puede desplazar del todo el contenido fresco creado de forma manual y por humanos. Apoyándonos en APIs existentes, podremos generar un alto volumen de contenidos de calidad con el menor esfuerzo posible.Este mes, traemos a David Martínez de Inforrada, para que nos hable de cómo unir inteligencia natural y APIs para generar contenido de la forma más eficiente.",
+       "fecha": "Thursday, April 25, 2024 12:00 PM to 1:00 PM GMT-5"
+    },
+       {
+       "img": "https://secure.meetupstatic.com/photos/event/6/a/d/e/600_520407358.webp?w=384",
+       "titulo": "Técnicas de Facilitación Visual para Potenciar la Innovación",
+       "resumen": "¡Desata tu creatividad! Webinar gratuito: Técnicas de Facilitación Visual para la Innovación
+       ¿Eres un líder que busca impulsar la innovación en tu equipo?
+       ¡Entonces este webinar es para ti!
+       ",
+       "contenido": "En este webinar, te enseñaremos cómo utilizar las Técnicas de Facilitación Visual para:
+
+       Generar ideas innovadoras y disruptivas en un ambiente creativo y colaborativo.
+       Resolver problemas complejos de manera efectiva utilizando herramientas visuales que facilitan la comprensión y el análisis.
+       Comunicar tus ideas de manera clara y convincente a tu equipo, clientes o stakeholders.
+       Facilitar la toma de decisiones y alcanzar acuerdos consensuados en tu equipo.
+       Crear una cultura de innovación en tu organización que fomente la creatividad y el pensamiento disruptivo.
+       Aprenderás técnicas como:
+       
+       Brainstorming visual para capturar ideas de manera rápida y efectiva.
+       Mapas mentales para organizar y conectar ideas para generar nuevas perspectivas.
+       Storyboards para contar historias visuales que comunican conceptos innovadores.
+       Prototipos visuales para dar vida a las ideas y probarlas con usuarios potenciales.
+       Y mucho más...
+       ¡No te pierdas esta oportunidad de potenciar la innovación de tu organización!
+       
+       ",
+       "fecha": "Tuesday, April 30, 2024
+       12:00 PM to 1:00 PM GMT-5"
+    },
+    {
+       "img": "URL_DE_LA_IMAGEN",
+       "titulo": "Silicon Valley Business Networking (Online)",
+       "resumen": "Need a place to stay short term in Silicon Valley?
+       Stay at Startup House in Palo Alto - the heart of Silicon Valley - for as low as $50 a night!",
+       "contenido": "This event is organized in collaboration with many groups!
+
+       Organizational Sponsor:
+       
+       Startup House
+       
+       Need a place to stay short term in Silicon Valley?
+       
+       Stay at Startup House in Palo Alto - the heart of Silicon Valley - for as low as $50 a night!
+       
+       -Network, socialize and connect with entrepreneurs all over the world!
+       
+       -Enjoy social events and startup and venture capital-related programming!
+       
+       - Have access to world class amenities, iconic tech companies, top tier venture capital firms, Stanford University, etc. - all within walking or biking distance!
+       
+       For more info, send an email message to:
+       
+       siliconvalleystartuphousing@gmail.com
+       
+       Put this in the subject header:
+       
+       Silicon Valley Startup Housing
+       
+       This event is 100% online.
+       
+       Participants can be located anywhere in the world!
+       
+       This event is FREE to attend!
+       
+       In order to attend, please register here:
+       
+       https://www.eventbrite.com/e/silicon-valley-business-networking-online-tickets-712802279807?aff=oddtdtcreator",
+       "fecha": "Monday, April 29, 2024
+       2:00 PM to 3:00 PM GMT-5
+       Every week on Monday"
+    },
+    {
+       "img": "URL_DE_LA_IMAGEN",
+       "titulo": "Título del cuarto evento",
+       "resumen": "Resumen del cuarto evento",
+       "contenido": "Contenido detallado del cuarto evento",
+       "fecha": "Fecha y hora del cuarto evento"
+    },
+    {
+       "img": "URL_DE_LA_IMAGEN",
+       "titulo": "Título del quinto evento",
+       "resumen": "Resumen del quinto evento",
+       "contenido": "Contenido detallado del quinto evento",
+       "fecha": "Fecha y hora del quinto evento"
+    },
+    {
+       "img": "URL_DE_LA_IMAGEN",
+       "titulo": "Título del sexto evento",
+       "resumen": "Resumen del sexto evento",
+       "contenido": "Contenido detallado del sexto evento",
+       "fecha": "Fecha y hora del sexto evento"
+    }
+    ]
+ }
+ 
